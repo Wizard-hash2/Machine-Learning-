@@ -14,3 +14,5 @@ Jupyter Notebooks: An interactive environment for developing and sharing code.
 
 
 Caffe: A fast and modular framework for deep learning, especially for CNNs.
+
+CNTK: for parallel neural network
